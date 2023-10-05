@@ -1,4 +1,4 @@
-# #19 This is a clone of Nykaa's website - by pb - Pea Bee
+# This is a clone of Nykaa's website
 I recently stumbled upon Github's [dmca repo](https://github.com/github/dmca), where they document all the dmca (copyrright infringement) notices received by them.
 
 According to the README, the reason why they're doing this is:
